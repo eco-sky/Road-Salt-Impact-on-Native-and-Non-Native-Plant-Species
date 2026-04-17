@@ -1,0 +1,13 @@
+Species,Metric,Level,Mean,Std Dev,Std Err Mean,Lower 95%,Upper 95%
+White Dutch Clover,germination,control,4.4166667,0.5835921,0.1191252,4.1702373,4.663096
+White Dutch Clover,germination,high salt,5,0.5897678,0.1203859,4.7509629,5.2490371
+White Dutch Clover,germination,low salt,4.5416667,0.58823,0.1200719,4.2932789,4.7900544
+White Dutch Clover,germination,medium salt,4.3333333,0.4815434,0.0982946,4.1299954,4.5366713
+Western Yarrow,growth rate (height/day),control,0.0461111,0.0327296,0.00345,0.039256,0.0529662
+Western Yarrow,growth rate (height/day),high salt,0.0288172,0.0316176,0.0032786,0.0223056,0.0353288
+Western Yarrow,growth rate (height/day),low salt,0.0290361,0.0309056,0.0033923,0.0222877,0.0357846
+Western Yarrow,growth rate (height/day),medium salt,0.0335294,0.0448995,0.00487,0.0238448,0.043214
+White Dutch Clover,germination,control,0.0426882,0.0500465,0.0051896,0.0323812,0.0529951
+White Dutch Clover,germination,high salt,0.0376923,0.0638762,0.006696,0.0243894,0.0509952
+White Dutch Clover,germination,low salt,0.036413,0.0450539,0.0046972,0.0270827,0.0457434
+White Dutch Clover,germination,medium salt,0.0588421,0.0508829,0.0052205,0.0484767,0.0692075
