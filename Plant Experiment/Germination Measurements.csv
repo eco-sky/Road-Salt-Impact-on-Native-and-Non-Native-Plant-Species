@@ -1,0 +1,193 @@
+﻿pot_id,species,treatment,road salt concentration,day of germination
+1,western yarrow,control,0.0000,6
+2,western yarrow,control,0.0000,5
+3,western yarrow,control,0.0000,5
+4,western yarrow,control,0.0000,5
+5,western yarrow,control,0.0000,5
+6,western yarrow,control,0.0000,5
+7,western yarrow,control,0.0000,7
+8,western yarrow,control,0.0000,5
+9,western yarrow,control,0.0000,6
+10,western yarrow,control,0.0000,5
+11,western yarrow,control,0.0000,5
+12,western yarrow,control,0.0000,5
+13,western yarrow,control,0.0000,6
+14,western yarrow,control,0.0000,6
+15,western yarrow,control,0.0000,5
+16,western yarrow,control,0.0000,5
+17,western yarrow,control,0.0000,5
+18,western yarrow,control,0.0000,5
+19,western yarrow,control,0.0000,5
+20,western yarrow,control,0.0000,5
+21,western yarrow,control,0.0000,5
+22,western yarrow,control,0.0000,5
+23,western yarrow,control,0.0000,4
+24,western yarrow,control,0.0000,5
+25,white dutch clover,control,0.0000,5
+26,white dutch clover,control,0.0000,4
+27,white dutch clover,control,0.0000,4
+28,white dutch clover,control,0.0000,5
+29,white dutch clover,control,0.0000,4
+30,white dutch clover,control,0.0000,4
+31,white dutch clover,control,0.0000,4
+32,white dutch clover,control,0.0000,5
+33,white dutch clover,control,0.0000,4
+34,white dutch clover,control,0.0000,4
+35,white dutch clover,control,0.0000,4
+36,white dutch clover,control,0.0000,4
+37,white dutch clover,control,0.0000,6
+38,white dutch clover,control,0.0000,4
+39,white dutch clover,control,0.0000,5
+40,white dutch clover,control,0.0000,5
+41,white dutch clover,control,0.0000,5
+42,white dutch clover,control,0.0000,4
+43,white dutch clover,control,0.0000,5
+44,white dutch clover,control,0.0000,5
+45,white dutch clover,control,0.0000,4
+46,white dutch clover,control,0.0000,4
+47,white dutch clover,control,0.0000,4
+48,white dutch clover,control,0.0000,4
+49,western yarrow,low salt,0.0841,5
+50,western yarrow,low salt,0.0841,4
+51,western yarrow,low salt,0.0841,5
+52,western yarrow,low salt,0.0841,5
+53,western yarrow,low salt,0.0841,5
+54,western yarrow,low salt,0.0841,5
+55,western yarrow,low salt,0.0841,5
+56,western yarrow,low salt,0.0841,5
+57,western yarrow,low salt,0.0841,5
+58,western yarrow,low salt,0.0841,5
+59,western yarrow,low salt,0.0841,5
+60,western yarrow,low salt,0.0841,5
+61,western yarrow,low salt,0.0841,5
+62,western yarrow,low salt,0.0841,5
+63,western yarrow,low salt,0.0841,5
+64,western yarrow,low salt,0.0841,5
+65,western yarrow,low salt,0.0841,5
+66,western yarrow,low salt,0.0841,5
+67,western yarrow,low salt,0.0841,5
+68,western yarrow,low salt,0.0841,5
+69,western yarrow,low salt,0.0841,5
+70,western yarrow,low salt,0.0841,6
+71,western yarrow,low salt,0.0841,5
+72,western yarrow,low salt,0.0841,5
+73,white dutch clover,low salt,0.0841,4
+74,white dutch clover,low salt,0.0841,5
+75,white dutch clover,low salt,0.0841,4
+76,white dutch clover,low salt,0.0841,4
+77,white dutch clover,low salt,0.0841,4
+78,white dutch clover,low salt,0.0841,5
+79,white dutch clover,low salt,0.0841,5
+80,white dutch clover,low salt,0.0841,4
+81,white dutch clover,low salt,0.0841,5
+82,white dutch clover,low salt,0.0841,4
+83,white dutch clover,low salt,0.0841,4
+84,white dutch clover,low salt,0.0841,4
+85,white dutch clover,low salt,0.0841,5
+86,white dutch clover,low salt,0.0841,4
+87,white dutch clover,low salt,0.0841,5
+88,white dutch clover,low salt,0.0841,4
+89,white dutch clover,low salt,0.0841,4
+90,white dutch clover,low salt,0.0841,4
+91,white dutch clover,low salt,0.0841,5
+92,white dutch clover,low salt,0.0841,5
+93,white dutch clover,low salt,0.0841,5
+94,white dutch clover,low salt,0.0841,5
+95,white dutch clover,low salt,0.0841,5
+96,white dutch clover,low salt,0.0841,6
+97,western yarrow,medium salt,0.1683,5
+98,western yarrow,medium salt,0.1683,5
+99,western yarrow,medium salt,0.1683,5
+100,western yarrow,medium salt,0.1683,5
+101,western yarrow,medium salt,0.1683,5
+102,western yarrow,medium salt,0.1683,5
+103,western yarrow,medium salt,0.1683,5
+104,western yarrow,medium salt,0.1683,5
+105,western yarrow,medium salt,0.1683,5
+106,western yarrow,medium salt,0.1683,5
+107,western yarrow,medium salt,0.1683,5
+108,western yarrow,medium salt,0.1683,5
+109,western yarrow,medium salt,0.1683,5
+110,western yarrow,medium salt,0.1683,4
+111,western yarrow,medium salt,0.1683,4
+112,western yarrow,medium salt,0.1683,5
+113,western yarrow,medium salt,0.1683,5
+114,western yarrow,medium salt,0.1683,5
+115,western yarrow,medium salt,0.1683,5
+116,western yarrow,medium salt,0.1683,5
+117,western yarrow,medium salt,0.1683,5
+118,western yarrow,medium salt,0.1683,5
+119,western yarrow,medium salt,0.1683,5
+120,western yarrow,medium salt,0.1683,6
+121,white dutch clover,medium salt,0.1683,4
+122,white dutch clover,medium salt,0.1683,4
+123,white dutch clover,medium salt,0.1683,4
+124,white dutch clover,medium salt,0.1683,5
+125,white dutch clover,medium salt,0.1683,4
+126,white dutch clover,medium salt,0.1683,4
+127,white dutch clover,medium salt,0.1683,5
+128,white dutch clover,medium salt,0.1683,4
+129,white dutch clover,medium salt,0.1683,4
+130,white dutch clover,medium salt,0.1683,5
+131,white dutch clover,medium salt,0.1683,4
+132,white dutch clover,medium salt,0.1683,4
+133,white dutch clover,medium salt,0.1683,5
+134,white dutch clover,medium salt,0.1683,5
+135,white dutch clover,medium salt,0.1683,4
+136,white dutch clover,medium salt,0.1683,4
+137,white dutch clover,medium salt,0.1683,4
+138,white dutch clover,medium salt,0.1683,4
+139,white dutch clover,medium salt,0.1683,4
+140,white dutch clover,medium salt,0.1683,4
+141,white dutch clover,medium salt,0.1683,5
+142,white dutch clover,medium salt,0.1683,5
+143,white dutch clover,medium salt,0.1683,4
+144,white dutch clover,medium salt,0.1683,5
+145,western yarrow,high salt,0.2525,8
+146,western yarrow,high salt,0.2525,5
+147,western yarrow,high salt,0.2525,6
+148,western yarrow,high salt,0.2525,6
+149,western yarrow,high salt,0.2525,5
+150,western yarrow,high salt,0.2525,5
+151,western yarrow,high salt,0.2525,5
+152,western yarrow,high salt,0.2525,5
+153,western yarrow,high salt,0.2525,6
+154,western yarrow,high salt,0.2525,5
+155,western yarrow,high salt,0.2525,5
+156,western yarrow,high salt,0.2525,5
+157,western yarrow,high salt,0.2525,5
+158,western yarrow,high salt,0.2525,5
+159,western yarrow,high salt,0.2525,5
+160,western yarrow,high salt,0.2525,5
+161,western yarrow,high salt,0.2525,5
+162,western yarrow,high salt,0.2525,5
+163,western yarrow,high salt,0.2525,5
+164,western yarrow,high salt,0.2525,5
+165,western yarrow,high salt,0.2525,5
+166,western yarrow,high salt,0.2525,5
+167,western yarrow,high salt,0.2525,5
+168,western yarrow,high salt,0.2525,5
+169,white dutch clover,high salt,0.2525,5
+170,white dutch clover,high salt,0.2525,5
+171,white dutch clover,high salt,0.2525,5
+172,white dutch clover,high salt,0.2525,6
+173,white dutch clover,high salt,0.2525,5
+174,white dutch clover,high salt,0.2525,5
+175,white dutch clover,high salt,0.2525,5
+176,white dutch clover,high salt,0.2525,5
+177,white dutch clover,high salt,0.2525,4
+178,white dutch clover,high salt,0.2525,4
+179,white dutch clover,high salt,0.2525,4
+180,white dutch clover,high salt,0.2525,6
+181,white dutch clover,high salt,0.2525,5
+182,white dutch clover,high salt,0.2525,5
+183,white dutch clover,high salt,0.2525,6
+184,white dutch clover,high salt,0.2525,5
+185,white dutch clover,high salt,0.2525,5
+186,white dutch clover,high salt,0.2525,4
+187,white dutch clover,high salt,0.2525,5
+188,white dutch clover,high salt,0.2525,5
+189,white dutch clover,high salt,0.2525,6
+190,white dutch clover,high salt,0.2525,5
+191,white dutch clover,high salt,0.2525,5
+192,white dutch clover,high salt,0.2525,5
