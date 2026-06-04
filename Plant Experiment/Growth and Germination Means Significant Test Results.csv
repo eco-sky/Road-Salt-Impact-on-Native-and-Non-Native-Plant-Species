@@ -1,0 +1,6 @@
+Species,Metric,Shapiro-Wilk Test,Shapiro-Wilk Test,Kruskal-Wallis Test,Kruskal-Wallis Test,Kruskal-Wallis Test
+,,W,Prob<W,ChiSquare,DF,Prob>ChiSq
+Western Yarrow,Germination Measurements,0.5042741,<.0001,5.8125,3,0.1211
+White Dutch Clover,Germination Measurements,0.7368512,<.0001,16.6482,3,0.0008
+Western Yarrow,Plant Growth Data,0.9636738,<.0001,5.8125,3,0.1211
+White Dutch Clover,Plant Growth Data,0.9714027,<.0001,16.6482,3,0.0008
