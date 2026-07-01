@@ -1,3 +1,5 @@
+<img width="385" height="128" alt="dirt safe bc transparent logo" src="https://github.com/user-attachments/assets/8c5acdbb-cf39-452a-ad75-7929d30ceb04" />
+
 # **Dataset for Assessment of Road Salt Impact on Native and Non-native Plant Species**
 
 ## **Capstone Project Abstract**
