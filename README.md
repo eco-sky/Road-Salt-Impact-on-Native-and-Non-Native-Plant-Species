@@ -19,6 +19,8 @@ Remaining sheets outputs from statistical tests and descriptive statistics for p
 
 R code and data analysis for an environmental capstone project assessing the impact of road salt on native and non-native plant species. This project examines how increasing salinity influences germination and growth of Western Yarrow (Achillea millefolium) and White Dutch Clover (Trifolium repens) through controlled experiments and field surveys of urban stream ecosystems in Metro Vancouver. The repository includes data processing, statistical analysis, and visualization workflows in R, along with experimental and field datasets (plant growth, germination, and water quality measurements) and outputs from non-parametric statistical tests (Kruskal-Wallis and Wilcoxon).
 
+## **Data Analysis**
+R was used to analysis the field survey data, while JMP was used to analyze the Plant Experiment Data.
 
 ## Link to Project
 
